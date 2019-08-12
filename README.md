@@ -1,0 +1,2 @@
+# redis_inner3_cluster
+redis内置集群三主三从三节点
